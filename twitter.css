@@ -1,0 +1,10 @@
+.dashboard .component:not(:first-child) { display: none; }
+
+.dashboard { position: static  !important;}
+
+
+#page-outer { max-width: 540px !important; min-width: 540px !important; }
+#page-container { position: relative  !important; max-width: 540px !important; min-width: 540px !important; }
+.tweet-activity { position: absolute; top: 10px; left: 10px; width: 500px; z-index: 100 }
+
+.home-header {  margin-top: 100px !important; }
