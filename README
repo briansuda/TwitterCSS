@@ -1,3 +1,7 @@
-After the redesign of twitter, there are some annoying changes. Rather than complaining, why not do something about the bits you don't like.
+After the 02010 redesign of Twitter.com, some annoying changes we a constant bother. Rather than complaining, I decided not do something about it.
 
 This is a custom CSS file that you load in the browser of your choice. It hides much of what is in the right-hand column.
+
+Feel free to fork it, make/suggest changes.
+
+Special thanks to @adactio for the seeds of this file.
